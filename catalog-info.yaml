@@ -8,7 +8,6 @@ spec:
   lifecycle: production
   owner: stagecentral
   system: backstage-workshop
-
-metadata:
-  annotations:
-    backstage.io/techdocs-ref: dir:.
+  metadata:
+    annotations:
+      backstage.io/techdocs-ref: dir:.
